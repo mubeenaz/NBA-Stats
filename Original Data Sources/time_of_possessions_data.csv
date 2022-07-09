@@ -1,0 +1,369 @@
+TEAM_ID,TEAM_NAME,TIME_OF_POSS,AVG_SEC_PER_TOUCH,SEASON,GAME_TYPE
+1610612737,Atlanta Hawks,20.4,2.79,2013-14,Regular Season
+1610612738,Boston Celtics,21.0,3.02,2013-14,Regular Season
+1610612751,Brooklyn Nets,21.2,3.14,2013-14,Regular Season
+1610612766,Charlotte Bobcats,21.3,2.91,2013-14,Regular Season
+1610612741,Chicago Bulls,21.8,3.0,2013-14,Regular Season
+1610612739,Cleveland Cavaliers,20.9,3.01,2013-14,Regular Season
+1610612742,Dallas Mavericks,21.2,2.97,2013-14,Regular Season
+1610612743,Denver Nuggets,20.1,3.12,2013-14,Regular Season
+1610612765,Detroit Pistons,20.8,3.27,2013-14,Regular Season
+1610612744,Golden State Warriors,20.2,3.32,2013-14,Regular Season
+1610612745,Houston Rockets,20.2,2.93,2013-14,Regular Season
+1610612754,Indiana Pacers,21.6,3.12,2013-14,Regular Season
+1610612746,Los Angeles Clippers,19.8,2.8,2013-14,Regular Season
+1610612747,Los Angeles Lakers,19.8,2.79,2013-14,Regular Season
+1610612763,Memphis Grizzlies,21.9,3.1,2013-14,Regular Season
+1610612748,Miami Heat,20.9,3.09,2013-14,Regular Season
+1610612749,Milwaukee Bucks,21.3,2.9,2013-14,Regular Season
+1610612750,Minnesota Timberwolves,20.9,2.94,2013-14,Regular Season
+1610612740,New Orleans Pelicans,21.6,3.33,2013-14,Regular Season
+1610612752,New York Knicks,21.5,3.27,2013-14,Regular Season
+1610612760,Oklahoma City Thunder,20.4,3.21,2013-14,Regular Season
+1610612753,Orlando Magic,21.5,3.18,2013-14,Regular Season
+1610612755,Philadelphia 76ers,19.7,2.76,2013-14,Regular Season
+1610612756,Phoenix Suns,20.8,3.14,2013-14,Regular Season
+1610612757,Portland Trail Blazers,21.2,3.05,2013-14,Regular Season
+1610612758,Sacramento Kings,21.7,3.36,2013-14,Regular Season
+1610612759,San Antonio Spurs,20.5,2.74,2013-14,Regular Season
+1610612761,Toronto Raptors,21.9,3.16,2013-14,Regular Season
+1610612762,Utah Jazz,21.7,2.98,2013-14,Regular Season
+1610612764,Washington Wizards,20.7,2.86,2013-14,Regular Season
+1610612737,Atlanta Hawks,20.4,2.77,2014-15,Regular Season
+1610612738,Boston Celtics,20.1,2.84,2014-15,Regular Season
+1610612751,Brooklyn Nets,21.2,3.26,2014-15,Regular Season
+1610612766,Charlotte Hornets,21.3,3.05,2014-15,Regular Season
+1610612741,Chicago Bulls,21.3,3.02,2014-15,Regular Season
+1610612739,Cleveland Cavaliers,21.3,3.14,2014-15,Regular Season
+1610612742,Dallas Mavericks,20.5,2.86,2014-15,Regular Season
+1610612743,Denver Nuggets,20.6,3.19,2014-15,Regular Season
+1610612765,Detroit Pistons,21.2,3.25,2014-15,Regular Season
+1610612744,Golden State Warriors,19.7,2.67,2014-15,Regular Season
+1610612745,Houston Rockets,20.4,2.91,2014-15,Regular Season
+1610612754,Indiana Pacers,22.0,3.06,2014-15,Regular Season
+1610612746,Los Angeles Clippers,20.4,2.98,2014-15,Regular Season
+1610612747,Los Angeles Lakers,22.0,3.39,2014-15,Regular Season
+1610612763,Memphis Grizzlies,21.5,3.03,2014-15,Regular Season
+1610612748,Miami Heat,21.6,3.1,2014-15,Regular Season
+1610612749,Milwaukee Bucks,20.3,3.0,2014-15,Regular Season
+1610612750,Minnesota Timberwolves,21.1,3.17,2014-15,Regular Season
+1610612740,New Orleans Pelicans,22.0,3.41,2014-15,Regular Season
+1610612752,New York Knicks,21.5,2.69,2014-15,Regular Season
+1610612760,Oklahoma City Thunder,20.7,3.14,2014-15,Regular Season
+1610612753,Orlando Magic,20.6,3.11,2014-15,Regular Season
+1610612755,Philadelphia 76ers,20.8,2.78,2014-15,Regular Season
+1610612756,Phoenix Suns,20.4,2.99,2014-15,Regular Season
+1610612757,Portland Trail Blazers,21.4,3.16,2014-15,Regular Season
+1610612758,Sacramento Kings,21.5,3.18,2014-15,Regular Season
+1610612759,San Antonio Spurs,21.3,2.77,2014-15,Regular Season
+1610612761,Toronto Raptors,21.7,3.31,2014-15,Regular Season
+1610612762,Utah Jazz,21.4,2.68,2014-15,Regular Season
+1610612764,Washington Wizards,20.9,3.0,2014-15,Regular Season
+1610612737,Atlanta Hawks,20.0,2.72,2015-16,Regular Season
+1610612738,Boston Celtics,19.7,2.69,2015-16,Regular Season
+1610612751,Brooklyn Nets,20.9,3.07,2015-16,Regular Season
+1610612766,Charlotte Hornets,21.0,3.04,2015-16,Regular Season
+1610612741,Chicago Bulls,20.8,2.91,2015-16,Regular Season
+1610612739,Cleveland Cavaliers,21.6,3.13,2015-16,Regular Season
+1610612742,Dallas Mavericks,21.7,2.9,2015-16,Regular Season
+1610612743,Denver Nuggets,21.2,3.1,2015-16,Regular Season
+1610612765,Detroit Pistons,21.0,3.28,2015-16,Regular Season
+1610612744,Golden State Warriors,19.4,2.6,2015-16,Regular Season
+1610612745,Houston Rockets,20.0,2.93,2015-16,Regular Season
+1610612754,Indiana Pacers,21.1,2.98,2015-16,Regular Season
+1610612746,LA Clippers,21.0,3.11,2015-16,Regular Season
+1610612747,Los Angeles Lakers,21.4,3.27,2015-16,Regular Season
+1610612763,Memphis Grizzlies,21.7,3.07,2015-16,Regular Season
+1610612748,Miami Heat,21.7,3.14,2015-16,Regular Season
+1610612749,Milwaukee Bucks,20.7,3.05,2015-16,Regular Season
+1610612750,Minnesota Timberwolves,21.1,3.16,2015-16,Regular Season
+1610612740,New Orleans Pelicans,20.4,2.97,2015-16,Regular Season
+1610612752,New York Knicks,21.0,2.75,2015-16,Regular Season
+1610612760,Oklahoma City Thunder,20.6,3.25,2015-16,Regular Season
+1610612753,Orlando Magic,20.8,2.94,2015-16,Regular Season
+1610612755,Philadelphia 76ers,21.4,2.85,2015-16,Regular Season
+1610612756,Phoenix Suns,20.5,2.83,2015-16,Regular Season
+1610612757,Portland Trail Blazers,21.7,3.24,2015-16,Regular Season
+1610612758,Sacramento Kings,20.3,3.0,2015-16,Regular Season
+1610612759,San Antonio Spurs,21.3,2.88,2015-16,Regular Season
+1610612761,Toronto Raptors,22.2,3.16,2015-16,Regular Season
+1610612762,Utah Jazz,22.2,2.85,2015-16,Regular Season
+1610612764,Washington Wizards,19.8,2.87,2015-16,Regular Season
+1610612737,Atlanta Hawks,20.4,2.85,2016-17,Regular Season
+1610612738,Boston Celtics,20.5,2.78,2016-17,Regular Season
+1610612751,Brooklyn Nets,19.9,2.76,2016-17,Regular Season
+1610612766,Charlotte Hornets,20.7,3.04,2016-17,Regular Season
+1610612741,Chicago Bulls,20.9,2.95,2016-17,Regular Season
+1610612739,Cleveland Cavaliers,20.9,3.19,2016-17,Regular Season
+1610612742,Dallas Mavericks,22.2,3.24,2016-17,Regular Season
+1610612743,Denver Nuggets,20.8,2.97,2016-17,Regular Season
+1610612765,Detroit Pistons,20.6,3.11,2016-17,Regular Season
+1610612744,Golden State Warriors,19.3,2.64,2016-17,Regular Season
+1610612745,Houston Rockets,19.6,3.03,2016-17,Regular Season
+1610612754,Indiana Pacers,21.0,3.11,2016-17,Regular Season
+1610612746,LA Clippers,21.2,3.04,2016-17,Regular Season
+1610612747,Los Angeles Lakers,20.6,3.01,2016-17,Regular Season
+1610612763,Memphis Grizzlies,22.0,3.13,2016-17,Regular Season
+1610612748,Miami Heat,21.5,3.21,2016-17,Regular Season
+1610612749,Milwaukee Bucks,20.3,3.02,2016-17,Regular Season
+1610612750,Minnesota Timberwolves,21.5,3.19,2016-17,Regular Season
+1610612740,New Orleans Pelicans,19.9,2.86,2016-17,Regular Season
+1610612752,New York Knicks,20.7,2.78,2016-17,Regular Season
+1610612760,Oklahoma City Thunder,20.2,3.19,2016-17,Regular Season
+1610612753,Orlando Magic,20.5,2.96,2016-17,Regular Season
+1610612755,Philadelphia 76ers,20.9,2.64,2016-17,Regular Season
+1610612756,Phoenix Suns,20.0,2.84,2016-17,Regular Season
+1610612757,Portland Trail Blazers,21.8,3.3,2016-17,Regular Season
+1610612758,Sacramento Kings,21.5,2.95,2016-17,Regular Season
+1610612759,San Antonio Spurs,21.1,2.92,2016-17,Regular Season
+1610612761,Toronto Raptors,21.3,3.26,2016-17,Regular Season
+1610612762,Utah Jazz,21.7,3.03,2016-17,Regular Season
+1610612764,Washington Wizards,20.6,3.21,2016-17,Regular Season
+1610612737,Atlanta Hawks,20.9,2.79,2017-18,Regular Season
+1610612738,Boston Celtics,21.2,3.01,2017-18,Regular Season
+1610612751,Brooklyn Nets,21.4,2.86,2017-18,Regular Season
+1610612766,Charlotte Hornets,20.8,3.11,2017-18,Regular Season
+1610612741,Chicago Bulls,19.8,2.81,2017-18,Regular Season
+1610612739,Cleveland Cavaliers,20.5,3.13,2017-18,Regular Season
+1610612742,Dallas Mavericks,21.8,3.11,2017-18,Regular Season
+1610612743,Denver Nuggets,20.8,2.94,2017-18,Regular Season
+1610612765,Detroit Pistons,20.8,2.98,2017-18,Regular Season
+1610612744,Golden State Warriors,19.4,2.63,2017-18,Regular Season
+1610612745,Houston Rockets,20.8,3.34,2017-18,Regular Season
+1610612754,Indiana Pacers,20.8,3.0,2017-18,Regular Season
+1610612746,LA Clippers,20.4,2.92,2017-18,Regular Season
+1610612747,Los Angeles Lakers,19.9,2.94,2017-18,Regular Season
+1610612763,Memphis Grizzlies,21.5,2.93,2017-18,Regular Season
+1610612748,Miami Heat,21.9,3.09,2017-18,Regular Season
+1610612749,Milwaukee Bucks,20.0,2.99,2017-18,Regular Season
+1610612750,Minnesota Timberwolves,21.8,3.22,2017-18,Regular Season
+1610612740,New Orleans Pelicans,19.9,2.77,2017-18,Regular Season
+1610612752,New York Knicks,21.1,2.87,2017-18,Regular Season
+1610612760,Oklahoma City Thunder,20.3,3.22,2017-18,Regular Season
+1610612753,Orlando Magic,20.7,3.02,2017-18,Regular Season
+1610612755,Philadelphia 76ers,20.2,2.59,2017-18,Regular Season
+1610612756,Phoenix Suns,20.5,2.96,2017-18,Regular Season
+1610612757,Portland Trail Blazers,22.1,3.4,2017-18,Regular Season
+1610612758,Sacramento Kings,21.3,2.94,2017-18,Regular Season
+1610612759,San Antonio Spurs,21.4,2.97,2017-18,Regular Season
+1610612761,Toronto Raptors,21.0,2.99,2017-18,Regular Season
+1610612762,Utah Jazz,21.5,2.94,2017-18,Regular Season
+1610612764,Washington Wizards,21.1,3.07,2017-18,Regular Season
+1610612737,Atlanta Hawks,20.7,2.88,2018-19,Regular Season
+1610612738,Boston Celtics,20.1,2.87,2018-19,Regular Season
+1610612751,Brooklyn Nets,21.4,2.94,2018-19,Regular Season
+1610612766,Charlotte Hornets,21.2,3.09,2018-19,Regular Season
+1610612741,Chicago Bulls,21.2,3.14,2018-19,Regular Season
+1610612739,Cleveland Cavaliers,22.1,3.28,2018-19,Regular Season
+1610612742,Dallas Mavericks,21.5,2.95,2018-19,Regular Season
+1610612743,Denver Nuggets,21.1,2.91,2018-19,Regular Season
+1610612765,Detroit Pistons,22.0,3.07,2018-19,Regular Season
+1610612744,Golden State Warriors,19.4,2.62,2018-19,Regular Season
+1610612745,Houston Rockets,21.3,3.48,2018-19,Regular Season
+1610612754,Indiana Pacers,20.9,2.93,2018-19,Regular Season
+1610612746,LA Clippers,21.1,2.95,2018-19,Regular Season
+1610612747,Los Angeles Lakers,20.3,3.01,2018-19,Regular Season
+1610612763,Memphis Grizzlies,22.0,2.93,2018-19,Regular Season
+1610612748,Miami Heat,21.4,3.02,2018-19,Regular Season
+1610612749,Milwaukee Bucks,20.3,2.97,2018-19,Regular Season
+1610612750,Minnesota Timberwolves,21.4,3.07,2018-19,Regular Season
+1610612740,New Orleans Pelicans,20.2,2.76,2018-19,Regular Season
+1610612752,New York Knicks,21.3,3.05,2018-19,Regular Season
+1610612760,Oklahoma City Thunder,19.4,3.13,2018-19,Regular Season
+1610612753,Orlando Magic,21.4,3.16,2018-19,Regular Season
+1610612755,Philadelphia 76ers,20.7,2.81,2018-19,Regular Season
+1610612756,Phoenix Suns,21.4,2.98,2018-19,Regular Season
+1610612757,Portland Trail Blazers,22.3,3.28,2018-19,Regular Season
+1610612758,Sacramento Kings,20.0,2.86,2018-19,Regular Season
+1610612759,San Antonio Spurs,21.2,3.17,2018-19,Regular Season
+1610612761,Toronto Raptors,20.8,2.95,2018-19,Regular Season
+1610612762,Utah Jazz,20.9,2.88,2018-19,Regular Season
+1610612764,Washington Wizards,20.5,2.94,2018-19,Regular Season
+1610612737,Atlanta Hawks,21.2,3.19,2019-20,Regular Season
+1610612738,Boston Celtics,20.8,3.08,2019-20,Regular Season
+1610612751,Brooklyn Nets,20.9,3.12,2019-20,Regular Season
+1610612766,Charlotte Hornets,21.4,3.0,2019-20,Regular Season
+1610612741,Chicago Bulls,20.6,3.03,2019-20,Regular Season
+1610612739,Cleveland Cavaliers,21.9,3.18,2019-20,Regular Season
+1610612742,Dallas Mavericks,21.6,3.13,2019-20,Regular Season
+1610612743,Denver Nuggets,21.5,3.02,2019-20,Regular Season
+1610612765,Detroit Pistons,21.8,3.19,2019-20,Regular Season
+1610612744,Golden State Warriors,20.6,2.71,2019-20,Regular Season
+1610612745,Houston Rockets,19.8,3.22,2019-20,Regular Season
+1610612754,Indiana Pacers,21.1,3.04,2019-20,Regular Season
+1610612746,LA Clippers,20.7,3.13,2019-20,Regular Season
+1610612747,Los Angeles Lakers,20.2,2.98,2019-20,Regular Season
+1610612763,Memphis Grizzlies,20.6,2.87,2019-20,Regular Season
+1610612748,Miami Heat,21.8,3.16,2019-20,Regular Season
+1610612749,Milwaukee Bucks,20.0,2.95,2019-20,Regular Season
+1610612750,Minnesota Timberwolves,20.8,2.88,2019-20,Regular Season
+1610612740,New Orleans Pelicans,19.9,2.67,2019-20,Regular Season
+1610612752,New York Knicks,21.1,3.0,2019-20,Regular Season
+1610612760,Oklahoma City Thunder,21.3,3.14,2019-20,Regular Season
+1610612753,Orlando Magic,21.3,3.26,2019-20,Regular Season
+1610612755,Philadelphia 76ers,21.6,3.07,2019-20,Regular Season
+1610612756,Phoenix Suns,20.9,3.02,2019-20,Regular Season
+1610612757,Portland Trail Blazers,21.6,3.54,2019-20,Regular Season
+1610612758,Sacramento Kings,21.3,3.15,2019-20,Regular Season
+1610612759,San Antonio Spurs,21.0,3.14,2019-20,Regular Season
+1610612761,Toronto Raptors,20.6,2.97,2019-20,Regular Season
+1610612762,Utah Jazz,21.4,3.08,2019-20,Regular Season
+1610612764,Washington Wizards,20.4,2.83,2019-20,Regular Season
+1610612737,Atlanta Hawks,21.4,3.24,2020-21,Regular Season
+1610612738,Boston Celtics,20.8,3.07,2020-21,Regular Season
+1610612751,Brooklyn Nets,20.2,3.05,2020-21,Regular Season
+1610612766,Charlotte Hornets,20.2,2.85,2020-21,Regular Season
+1610612741,Chicago Bulls,21.1,3.06,2020-21,Regular Season
+1610612739,Cleveland Cavaliers,21.5,3.04,2020-21,Regular Season
+1610612742,Dallas Mavericks,21.2,3.24,2020-21,Regular Season
+1610612743,Denver Nuggets,21.2,3.06,2020-21,Regular Season
+1610612765,Detroit Pistons,21.5,3.17,2020-21,Regular Season
+1610612744,Golden State Warriors,19.5,2.73,2020-21,Regular Season
+1610612745,Houston Rockets,20.3,3.06,2020-21,Regular Season
+1610612754,Indiana Pacers,20.3,2.82,2020-21,Regular Season
+1610612746,LA Clippers,20.9,3.15,2020-21,Regular Season
+1610612747,Los Angeles Lakers,21.1,2.98,2020-21,Regular Season
+1610612763,Memphis Grizzlies,20.3,3.03,2020-21,Regular Season
+1610612748,Miami Heat,20.9,3.11,2020-21,Regular Season
+1610612749,Milwaukee Bucks,19.8,3.13,2020-21,Regular Season
+1610612750,Minnesota Timberwolves,20.9,2.97,2020-21,Regular Season
+1610612740,New Orleans Pelicans,20.5,2.96,2020-21,Regular Season
+1610612752,New York Knicks,21.6,3.29,2020-21,Regular Season
+1610612760,Oklahoma City Thunder,20.8,3.05,2020-21,Regular Season
+1610612753,Orlando Magic,21.5,3.29,2020-21,Regular Season
+1610612755,Philadelphia 76ers,21.1,2.94,2020-21,Regular Season
+1610612756,Phoenix Suns,20.8,3.09,2020-21,Regular Season
+1610612757,Portland Trail Blazers,21.2,3.5,2020-21,Regular Season
+1610612758,Sacramento Kings,20.4,3.07,2020-21,Regular Season
+1610612759,San Antonio Spurs,21.0,3.3,2020-21,Regular Season
+1610612761,Toronto Raptors,20.5,2.98,2020-21,Regular Season
+1610612762,Utah Jazz,20.5,2.99,2020-21,Regular Season
+1610612764,Washington Wizards,19.9,3.05,2020-21,Regular Season
+1610612737,Atlanta Hawks,20.3,2.99,2013-14,Playoffs
+1610612751,Brooklyn Nets,21.1,3.21,2013-14,Playoffs
+1610612766,Charlotte Bobcats,19.8,2.8,2013-14,Playoffs
+1610612741,Chicago Bulls,21.8,3.31,2013-14,Playoffs
+1610612742,Dallas Mavericks,21.2,3.21,2013-14,Playoffs
+1610612744,Golden State Warriors,20.5,3.34,2013-14,Playoffs
+1610612745,Houston Rockets,21.6,3.16,2013-14,Playoffs
+1610612754,Indiana Pacers,21.9,3.36,2013-14,Playoffs
+1610612746,Los Angeles Clippers,21.1,2.99,2013-14,Playoffs
+1610612763,Memphis Grizzlies,24.0,3.16,2013-14,Playoffs
+1610612748,Miami Heat,21.1,3.3,2013-14,Playoffs
+1610612760,Oklahoma City Thunder,21.0,3.48,2013-14,Playoffs
+1610612757,Portland Trail Blazers,21.8,3.34,2013-14,Playoffs
+1610612759,San Antonio Spurs,21.0,2.95,2013-14,Playoffs
+1610612761,Toronto Raptors,21.8,3.48,2013-14,Playoffs
+1610612764,Washington Wizards,20.3,3.04,2013-14,Playoffs
+1610612737,Atlanta Hawks,20.2,2.96,2014-15,Playoffs
+1610612738,Boston Celtics,19.2,3.02,2014-15,Playoffs
+1610612751,Brooklyn Nets,21.8,3.16,2014-15,Playoffs
+1610612741,Chicago Bulls,21.4,2.94,2014-15,Playoffs
+1610612739,Cleveland Cavaliers,23.1,3.66,2014-15,Playoffs
+1610612742,Dallas Mavericks,21.6,3.17,2014-15,Playoffs
+1610612744,Golden State Warriors,20.3,2.9,2014-15,Playoffs
+1610612745,Houston Rockets,20.4,2.98,2014-15,Playoffs
+1610612746,Los Angeles Clippers,21.0,3.07,2014-15,Playoffs
+1610612763,Memphis Grizzlies,23.3,3.25,2014-15,Playoffs
+1610612749,Milwaukee Bucks,19.9,2.94,2014-15,Playoffs
+1610612740,New Orleans Pelicans,23.6,3.53,2014-15,Playoffs
+1610612757,Portland Trail Blazers,19.5,3.29,2014-15,Playoffs
+1610612759,San Antonio Spurs,21.8,2.78,2014-15,Playoffs
+1610612761,Toronto Raptors,21.0,3.32,2014-15,Playoffs
+1610612764,Washington Wizards,21.5,3.08,2014-15,Playoffs
+1610612737,Atlanta Hawks,20.2,2.76,2015-16,Playoffs
+1610612738,Boston Celtics,21.6,2.84,2015-16,Playoffs
+1610612766,Charlotte Hornets,21.2,3.48,2015-16,Playoffs
+1610612739,Cleveland Cavaliers,21.7,3.41,2015-16,Playoffs
+1610612742,Dallas Mavericks,22.5,3.21,2015-16,Playoffs
+1610612765,Detroit Pistons,19.4,3.34,2015-16,Playoffs
+1610612744,Golden State Warriors,20.1,2.77,2015-16,Playoffs
+1610612745,Houston Rockets,20.2,3.05,2015-16,Playoffs
+1610612754,Indiana Pacers,20.1,3.12,2015-16,Playoffs
+1610612746,LA Clippers,21.1,3.28,2015-16,Playoffs
+1610612763,Memphis Grizzlies,20.7,3.12,2015-16,Playoffs
+1610612748,Miami Heat,21.2,3.31,2015-16,Playoffs
+1610612760,Oklahoma City Thunder,20.6,3.64,2015-16,Playoffs
+1610612757,Portland Trail Blazers,21.7,3.36,2015-16,Playoffs
+1610612759,San Antonio Spurs,21.4,3.06,2015-16,Playoffs
+1610612761,Toronto Raptors,22.3,3.41,2015-16,Playoffs
+1610612737,Atlanta Hawks,21.3,3.02,2016-17,Playoffs
+1610612738,Boston Celtics,20.8,2.96,2016-17,Playoffs
+1610612741,Chicago Bulls,20.7,3.27,2016-17,Playoffs
+1610612739,Cleveland Cavaliers,21.3,3.39,2016-17,Playoffs
+1610612744,Golden State Warriors,19.1,2.73,2016-17,Playoffs
+1610612745,Houston Rockets,20.8,3.47,2016-17,Playoffs
+1610612754,Indiana Pacers,20.5,3.32,2016-17,Playoffs
+1610612746,LA Clippers,20.2,3.38,2016-17,Playoffs
+1610612763,Memphis Grizzlies,21.6,3.49,2016-17,Playoffs
+1610612749,Milwaukee Bucks,20.9,3.08,2016-17,Playoffs
+1610612760,Oklahoma City Thunder,21.0,3.56,2016-17,Playoffs
+1610612757,Portland Trail Blazers,22.5,3.66,2016-17,Playoffs
+1610612759,San Antonio Spurs,21.7,3.2,2016-17,Playoffs
+1610612761,Toronto Raptors,21.0,3.28,2016-17,Playoffs
+1610612762,Utah Jazz,22.2,3.34,2016-17,Playoffs
+1610612764,Washington Wizards,21.4,3.44,2016-17,Playoffs
+1610612738,Boston Celtics,22.1,3.21,2017-18,Playoffs
+1610612739,Cleveland Cavaliers,21.8,3.59,2017-18,Playoffs
+1610612744,Golden State Warriors,20.0,2.87,2017-18,Playoffs
+1610612745,Houston Rockets,21.8,3.83,2017-18,Playoffs
+1610612754,Indiana Pacers,20.8,3.39,2017-18,Playoffs
+1610612748,Miami Heat,21.6,3.35,2017-18,Playoffs
+1610612749,Milwaukee Bucks,19.6,3.16,2017-18,Playoffs
+1610612750,Minnesota Timberwolves,20.7,3.38,2017-18,Playoffs
+1610612740,New Orleans Pelicans,19.9,2.92,2017-18,Playoffs
+1610612760,Oklahoma City Thunder,19.7,3.41,2017-18,Playoffs
+1610612755,Philadelphia 76ers,20.4,2.73,2017-18,Playoffs
+1610612757,Portland Trail Blazers,22.5,3.44,2017-18,Playoffs
+1610612759,San Antonio Spurs,21.9,3.16,2017-18,Playoffs
+1610612761,Toronto Raptors,20.7,3.19,2017-18,Playoffs
+1610612762,Utah Jazz,20.9,3.2,2017-18,Playoffs
+1610612764,Washington Wizards,21.0,3.37,2017-18,Playoffs
+1610612738,Boston Celtics,21.0,3.2,2018-19,Playoffs
+1610612751,Brooklyn Nets,20.8,3.28,2018-19,Playoffs
+1610612743,Denver Nuggets,21.9,3.03,2018-19,Playoffs
+1610612765,Detroit Pistons,22.1,3.28,2018-19,Playoffs
+1610612744,Golden State Warriors,19.5,2.7,2018-19,Playoffs
+1610612745,Houston Rockets,21.9,3.7,2018-19,Playoffs
+1610612754,Indiana Pacers,21.3,3.24,2018-19,Playoffs
+1610612746,LA Clippers,21.9,2.97,2018-19,Playoffs
+1610612749,Milwaukee Bucks,20.3,3.02,2018-19,Playoffs
+1610612760,Oklahoma City Thunder,18.6,3.2,2018-19,Playoffs
+1610612753,Orlando Magic,21.2,3.18,2018-19,Playoffs
+1610612755,Philadelphia 76ers,21.9,3.19,2018-19,Playoffs
+1610612757,Portland Trail Blazers,23.3,3.74,2018-19,Playoffs
+1610612759,San Antonio Spurs,21.0,3.42,2018-19,Playoffs
+1610612761,Toronto Raptors,21.6,3.12,2018-19,Playoffs
+1610612762,Utah Jazz,21.2,3.22,2018-19,Playoffs
+1610612738,Boston Celtics,21.1,3.2,2019-20,Playoffs
+1610612751,Brooklyn Nets,19.9,2.84,2019-20,Playoffs
+1610612742,Dallas Mavericks,21.2,3.17,2019-20,Playoffs
+1610612743,Denver Nuggets,21.7,3.24,2019-20,Playoffs
+1610612745,Houston Rockets,20.5,3.3,2019-20,Playoffs
+1610612754,Indiana Pacers,20.6,3.23,2019-20,Playoffs
+1610612746,LA Clippers,20.8,3.27,2019-20,Playoffs
+1610612747,Los Angeles Lakers,20.7,3.14,2019-20,Playoffs
+1610612748,Miami Heat,21.3,3.12,2019-20,Playoffs
+1610612749,Milwaukee Bucks,20.2,3.12,2019-20,Playoffs
+1610612760,Oklahoma City Thunder,21.9,3.3,2019-20,Playoffs
+1610612753,Orlando Magic,21.7,3.24,2019-20,Playoffs
+1610612755,Philadelphia 76ers,21.9,3.28,2019-20,Playoffs
+1610612757,Portland Trail Blazers,20.7,3.42,2019-20,Playoffs
+1610612761,Toronto Raptors,21.0,3.08,2019-20,Playoffs
+1610612762,Utah Jazz,21.4,3.29,2019-20,Playoffs
+1610612737,Atlanta Hawks,21.2,3.49,2020-21,Playoffs
+1610612738,Boston Celtics,20.0,3.25,2020-21,Playoffs
+1610612751,Brooklyn Nets,22.0,3.38,2020-21,Playoffs
+1610612742,Dallas Mavericks,21.7,3.58,2020-21,Playoffs
+1610612743,Denver Nuggets,21.7,3.23,2020-21,Playoffs
+1610612746,LA Clippers,20.7,3.34,2020-21,Playoffs
+1610612747,Los Angeles Lakers,20.5,3.04,2020-21,Playoffs
+1610612763,Memphis Grizzlies,20.2,3.37,2020-21,Playoffs
+1610612748,Miami Heat,21.3,3.08,2020-21,Playoffs
+1610612749,Milwaukee Bucks,20.3,3.36,2020-21,Playoffs
+1610612752,New York Knicks,21.5,3.38,2020-21,Playoffs
+1610612755,Philadelphia 76ers,21.3,3.0,2020-21,Playoffs
+1610612756,Phoenix Suns,21.5,3.52,2020-21,Playoffs
+1610612757,Portland Trail Blazers,21.5,3.55,2020-21,Playoffs
+1610612762,Utah Jazz,20.8,3.47,2020-21,Playoffs
+1610612764,Washington Wizards,19.8,3.21,2020-21,Playoffs
