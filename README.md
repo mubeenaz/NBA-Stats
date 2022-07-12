@@ -31,7 +31,7 @@ Data cleaning operations and transformations were performed in both Excel and SQ
 ### Analysis 
 
 The analysis phase consisted of two parts: 
-1. **Descriptive Analysis** (SQL) - querying the database using SQL, I was able to obtain the averages of all stats for every team and NBA season in my analysis. For example, the avergage number of Points, Assists, etc. the Los Angeles Lakers had for all Regular Season games in 2009. 
+1. **Descriptive & Exploratory Analysis** (SQL) - querying the database using SQL, I was able to obtain the averages of all stats for every team and NBA season in my analysis. For example, the avergage number of Points, Assists, etc. the Los Angeles Lakers had for all Regular Season games in 2009. 
 2. **Statistical Testing using Dependent Samples t-Test** (Excel) - Since the same subjects (NBA teams) performance in various stats was analyzed at different times in a given NBA season, such testing allowed to determine if any differences in stats between Regular Season and Playoffs games were *significantly different*. 
 
 ### Results 
@@ -65,6 +65,8 @@ A dashboard was created (linked at top of page) to portray the results. Generall
 `querying_NBA_database.sql`: contains SQL queries to extract data from NBA database 
 
 ## Acknowledgments 
+
+I wouldn't have been able to complete this project without the help of some notable people. I'd like to thank Wyatt Walsh for providing probably the most detailed NBA dataset available online through Kaggle. Although I didn't end up using Nathan Lauga's dataset on Kaggle which contained NBA playoffs data, I still incorporated it in my database as it may prove to be useful for future developments. The Learn With Jabe YouTube channel really helped me during the data collection process and using Python to extract desired stats from NBA.com through it's API; so, many thanks to John Mannelly. Lastly, I'd like to thank Tableau Forum Ambassador Ayinde Hammed for assisting me with conditionally formatting the stats table displayed in the dashboard. Most of the support from these people was indirect and they may never see this project, but I wanted to make it known how much I appreciated their efforts in helping bring this project to life. 
 
 
 
