@@ -64,6 +64,8 @@ A dashboard was created (linked at top of page) to portray the results. Generall
 
 `querying_NBA_database.sql`: contains SQL queries to extract data from NBA database 
 
+`NBA Team Logos`: folder that contains images of all NBA team logos used in Tableau visualization 
+
 ## Acknowledgments 
 
 I wouldn't have been able to complete this project without the help of some notable people. I'd like to thank Wyatt Walsh for providing probably the most detailed NBA dataset available online through Kaggle. Although I didn't end up using Nathan Lauga's dataset on Kaggle which contained NBA playoffs data, I still incorporated it in my database as it may prove to be useful for future developments. The Learn With Jabe YouTube channel really helped me during the data collection process and using Python to extract desired stats from NBA.com through it's API; so, many thanks to John Mannelly. Lastly, I'd like to thank Tableau Forum Ambassador Ayinde Hammed for assisting me with conditionally formatting the stats table displayed in the dashboard. Most of the support from these people was indirect and they may never see this project, but I wanted to make it known how much I appreciated their efforts in helping bring this project to life. 
