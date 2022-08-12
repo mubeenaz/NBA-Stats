@@ -1,3 +1,4 @@
 CSV[[:space:]]Files/games_detailsED.csv filter=lfs diff=lfs merge=lfs -text
 INSERT:LOAD[[:space:]]Data/basketballsqlite.sql filter=lfs diff=lfs merge=lfs -text
 Original[[:space:]]Data[[:space:]]Sources/archive2/games_detailsOG.csv filter=lfs diff=lfs merge=lfs -text
+*.sql linguist-detectable=true
